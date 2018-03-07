@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60648e5b-0870-4e6a-ab0e-0e10bd0a6731" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+      <change beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -23,6 +23,26 @@
           </provider>
         </entry>
       </file>
+      <file leaf-file-name="2017_home.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="header-home.html" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_includes/2017_data/header-home.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="11" column="120" lean-forward="true" selection-start-line="11" selection-start-column="120" selection-end-line="11" selection-end-column="120" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/css/2016_style/style.css">
           <provider selected="true" editor-type-id="text-editor">
@@ -33,11 +53,21 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="54">
               <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="feed.xml" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/feed.xml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="324">
+              <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
               <folding />
             </state>
           </provider>
@@ -50,27 +80,6 @@
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
               <folding />
             </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon-venue.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-venue.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon-team.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-team.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="icon-faq.jpeg" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-faq.jpeg">
-          <provider selected="true" editor-type-id="images">
-            <state />
           </provider>
         </entry>
       </file>
@@ -111,8 +120,8 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/index.html" />
         <option value="$PROJECT_DIR$/_config.yml" />
+        <option value="$PROJECT_DIR$/index.html" />
       </list>
     </option>
   </component>
@@ -143,49 +152,6 @@
             <path>
               <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
               <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="2016_speakers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="2016_speakers" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="2017_speakers" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="2017_speakers" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="2017_teams" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="2017_teams" type="462c0819:PsiDirectoryNode" />
-              <item name="_posts" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="_2016_pages" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="_2017_pages" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
@@ -234,13 +200,6 @@
               <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
               <item name="2016_style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="2016_style" type="462c0819:PsiDirectoryNode" />
-              <item name="js" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
@@ -393,14 +352,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/css/2016_style/style.css">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
@@ -409,10 +360,42 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/feed.xml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="324">
+          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="54">
           <caret line="3" column="22" lean-forward="true" selection-start-line="3" selection-start-column="22" selection-end-line="3" selection-end-column="22" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="18">
+          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_includes/2017_data/header-home.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="11" column="120" lean-forward="true" selection-start-line="11" selection-start-column="120" selection-end-line="11" selection-end-column="120" />
           <folding />
         </state>
       </provider>
