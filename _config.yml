@@ -1,6 +1,6 @@
-title: Your Title
+title: 6th Goal Reasoning Workshop
 description: > # this means to ignore newlines until "baseurl:"
-  Your description
+  Goals (also desires or intentions) are a unifying structure across a variety of intelligent systems, and reasoning about goals takes many forms. Reasoning about goals includes management of long-term behavior by setting goals, anticipation of the future to formulate goals, choosing goals by selection among priorities, committing to goals by taking action, generating expectations that help to monitor goal progress, assessment of tradeoffs in goal choice, and learning from experience to select appropriate goals.  As a result, the broad topic of goal reasoning is studied in diverse subfields of AI such as motivated systems, cognitive science, automated planning, and agent-oriented programming. We aim to bring together researchers from sometimes distinct subfields to encourage cross-disciplinary discussion on goal reasoning.
 baseurl: "/faim2018grw" # the subpath of your site, e.g. /blog
 url: "dtdannen.github.io" # the base hostname & protocol for your site
 # Build settings
