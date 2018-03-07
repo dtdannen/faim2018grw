@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="60648e5b-0870-4e6a-ab0e-0e10bd0a6731" name="Default" comment="" />
+    <list default="true" id="60648e5b-0870-4e6a-ab0e-0e10bd0a6731" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
+    </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
@@ -11,8 +13,58 @@
   </component>
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="_config.yml" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/_config.yml">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="54">
+              <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_2016_pages/index.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="venue.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_2017_pages/venue.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="about.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_2017_pages/about.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="0">
+              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="team.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/_2017_pages/team.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="0">
               <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
@@ -25,6 +77,13 @@
   </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/_config.yml" />
+      </list>
+    </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
     <option name="width" value="1350" />
@@ -53,6 +112,135 @@
             <path>
               <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
               <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="2016_speakers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="2016_speakers" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="2017_speakers" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="2017_speakers" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="2017_teams" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="2017_teams" type="462c0819:PsiDirectoryNode" />
+              <item name="_posts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="_2016_pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="_2017_pages" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="_data" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="_includes" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="_layouts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="_plugins" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="_sass" type="462c0819:PsiDirectoryNode" />
+              <item name="2016_sass" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="2016_style" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="2016_style" type="462c0819:PsiDirectoryNode" />
+              <item name="font-awesome" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="2017_style" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="2017_style" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="2017_style" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="logos" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="2017_style" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="speaker" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
+              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
+              <item name="css" type="462c0819:PsiDirectoryNode" />
+              <item name="2017_style" type="462c0819:PsiDirectoryNode" />
+              <item name="img" type="462c0819:PsiDirectoryNode" />
+              <item name="team" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -122,10 +310,50 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/_2016_pages/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_2017_pages/team.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_2017_pages/venue.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_2017_pages/about.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="0">
           <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/_config.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="10" lean-forward="false" selection-start-line="3" selection-start-column="10" selection-end-line="3" selection-end-column="10" />
           <folding />
         </state>
       </provider>
