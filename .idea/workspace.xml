@@ -2,129 +2,128 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60648e5b-0870-4e6a-ab0e-0e10bd0a6731" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docs/2016_speakers/_posts/2016-07-16-project-3.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/2016_speakers/_posts/2016-07-17-project-2.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/2016_speakers/_posts/2016-07-18-project-1.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/2017_speakers/_posts/2017-01-01-speaker-01.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/2017_speakers/_posts/2017-01-01-speaker-02.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/2017_speakers/_posts/2017-01-01-speaker-03.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/2017_teams/_posts/2017-05-31-team-1.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/2017_teams/_posts/2017-05-31-team-2.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/2017_teams/_posts/2017-05-31-team-3.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/404.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/LICENSE" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/README.markdown" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/README.md" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/agenda.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/faqs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/index.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/register.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/team.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/venue.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/agenda.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/booklet.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/faqs.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/register.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/team.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/venue.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_data/template.yml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_css/agency.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_css/bootstrap.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_css/critical.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/contact.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/footer.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/head.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/header-home.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/header.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/intro.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/js.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/logo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/speakers.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/speakers_info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/sponsors.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/about.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/contact.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/header-home.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/header.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/intro.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/logo.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/speakers.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/speakers_info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/sponsors.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/team_members.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/team_members_info.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_layouts/2016_default.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_layouts/2016_home.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_layouts/2016_style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_layouts/2017_default.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_layouts/2017_home.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_layouts/2017_home_backup.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_layouts/2017_pdf.html" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_plugins/hex_to_rgb.rb" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_404.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_about.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_agenda.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_button.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_event.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_fonts.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_footer.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_form.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_header.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_home.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_more.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_social.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_speakers.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_sponsors.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_team.scss" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/css/font-awesome.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/css/font-awesome.min.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/FontAwesome.otf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/fonts/Roboto-regular/Roboto-regular.eot" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/fonts/Roboto-regular/Roboto-regular.svg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/fonts/Roboto-regular/Roboto-regular.ttf" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/fonts/Roboto-regular/Roboto-regular.woff" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/fonts/Roboto-regular/Roboto-regular.woff2" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/TBD.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/booklet-icon.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/header-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/icon-about.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/icon-agenda.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/icon-faq.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/icon-team.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/icon-venue.jpeg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/logos/TBD.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/map-image.png" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/speaker/TBD.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/stockholm-city-header-bg.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/stockholm-city-header-bg2.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/stockholm-city-header-bg3.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/team/TBD.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/agency.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/bootstrap.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/bootstrap.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/cbpAnimatedHeader.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/cbpAnimatedHeader.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/classie.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/contact_me.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/jqBootstrapValidation.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/jquery-1.11.0.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/jquery.easing.min.js" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/style.css" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2017_style/img/logos/TBD.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2017_style/img/speaker/TBD.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/css/2017_style/img/team/TBD.jpg" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/feed.xml" afterPath="" />
-      <change beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
-      <change beforePath="$PROJECT_DIR$/docs/robots.txt" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/old/2016_speakers/_posts/2016-07-16-project-3.markdown" afterPath="$PROJECT_DIR$/old/2016_speakers/_posts/2016-07-16-project-3.markdown" />
+      <change beforePath="$PROJECT_DIR$/docs/old/2016_speakers/_posts/2016-07-17-project-2.markdown" afterPath="$PROJECT_DIR$/old/2016_speakers/_posts/2016-07-17-project-2.markdown" />
+      <change beforePath="$PROJECT_DIR$/docs/old/2016_speakers/_posts/2016-07-18-project-1.markdown" afterPath="$PROJECT_DIR$/old/2016_speakers/_posts/2016-07-18-project-1.markdown" />
+      <change beforePath="$PROJECT_DIR$/docs/old/2017_speakers/_posts/2017-01-01-speaker-01.markdown" afterPath="$PROJECT_DIR$/old/2017_speakers/_posts/2017-01-01-speaker-01.markdown" />
+      <change beforePath="$PROJECT_DIR$/docs/old/2017_speakers/_posts/2017-01-01-speaker-02.markdown" afterPath="$PROJECT_DIR$/old/2017_speakers/_posts/2017-01-01-speaker-02.markdown" />
+      <change beforePath="$PROJECT_DIR$/docs/old/2017_speakers/_posts/2017-01-01-speaker-03.markdown" afterPath="$PROJECT_DIR$/old/2017_speakers/_posts/2017-01-01-speaker-03.markdown" />
+      <change beforePath="$PROJECT_DIR$/docs/old/2017_teams/_posts/2017-05-31-team-1.markdown" afterPath="$PROJECT_DIR$/old/2017_teams/_posts/2017-05-31-team-1.markdown" />
+      <change beforePath="$PROJECT_DIR$/docs/old/2017_teams/_posts/2017-05-31-team-2.markdown" afterPath="$PROJECT_DIR$/old/2017_teams/_posts/2017-05-31-team-2.markdown" />
+      <change beforePath="$PROJECT_DIR$/docs/old/2017_teams/_posts/2017-05-31-team-3.markdown" afterPath="$PROJECT_DIR$/old/2017_teams/_posts/2017-05-31-team-3.markdown" />
+      <change beforePath="$PROJECT_DIR$/docs/old/404.html" afterPath="$PROJECT_DIR$/old/404.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/LICENSE" afterPath="$PROJECT_DIR$/old/LICENSE" />
+      <change beforePath="$PROJECT_DIR$/docs/old/README.markdown" afterPath="$PROJECT_DIR$/old/README.markdown" />
+      <change beforePath="$PROJECT_DIR$/docs/old/README.md" afterPath="$PROJECT_DIR$/old/README.md" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2016_pages/about.html" afterPath="$PROJECT_DIR$/old/_2016_pages/about.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2016_pages/agenda.html" afterPath="$PROJECT_DIR$/old/_2016_pages/agenda.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2016_pages/faqs.html" afterPath="$PROJECT_DIR$/old/_2016_pages/faqs.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2016_pages/index.html" afterPath="$PROJECT_DIR$/old/_2016_pages/index.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2016_pages/register.html" afterPath="$PROJECT_DIR$/old/_2016_pages/register.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2016_pages/team.html" afterPath="$PROJECT_DIR$/old/_2016_pages/team.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2016_pages/venue.html" afterPath="$PROJECT_DIR$/old/_2016_pages/venue.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2017_pages/about.html" afterPath="$PROJECT_DIR$/old/_2017_pages/about.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2017_pages/agenda.html" afterPath="$PROJECT_DIR$/old/_2017_pages/agenda.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2017_pages/booklet.html" afterPath="$PROJECT_DIR$/old/_2017_pages/booklet.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2017_pages/faqs.html" afterPath="$PROJECT_DIR$/old/_2017_pages/faqs.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2017_pages/register.html" afterPath="$PROJECT_DIR$/old/_2017_pages/register.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2017_pages/team.html" afterPath="$PROJECT_DIR$/old/_2017_pages/team.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_2017_pages/venue.html" afterPath="$PROJECT_DIR$/old/_2017_pages/venue.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_data/template.yml" afterPath="$PROJECT_DIR$/old/_data/template.yml" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_css/agency.css" afterPath="$PROJECT_DIR$/old/_includes/2016_css/agency.css" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_css/bootstrap.min.css" afterPath="$PROJECT_DIR$/old/_includes/2016_css/bootstrap.min.css" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_css/critical.scss" afterPath="$PROJECT_DIR$/old/_includes/2016_css/critical.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/about.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/about.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/contact.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/contact.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/footer.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/footer.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/head.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/head.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/header-home.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/header-home.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/header.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/header.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/intro.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/intro.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/js.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/js.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/logo.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/logo.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/speakers.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/speakers.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/speakers_info.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/speakers_info.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2016_data/sponsors.html" afterPath="$PROJECT_DIR$/old/_includes/2016_data/sponsors.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/about.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/about.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/contact.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/contact.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/header-home.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/header-home.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/header.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/header.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/intro.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/intro.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/logo.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/logo.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/speakers.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/speakers.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/speakers_info.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/speakers_info.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/sponsors.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/sponsors.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/team_members.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/team_members.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_includes/2017_data/team_members_info.html" afterPath="$PROJECT_DIR$/old/_includes/2017_data/team_members_info.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_layouts/2016_default.html" afterPath="$PROJECT_DIR$/old/_layouts/2016_default.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_layouts/2016_home.html" afterPath="$PROJECT_DIR$/old/_layouts/2016_home.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_layouts/2016_style.css" afterPath="$PROJECT_DIR$/old/_layouts/2016_style.css" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_layouts/2017_default.html" afterPath="$PROJECT_DIR$/old/_layouts/2017_default.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_layouts/2017_home.html" afterPath="$PROJECT_DIR$/old/_layouts/2017_home.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_layouts/2017_home_backup.html" afterPath="$PROJECT_DIR$/old/_layouts/2017_home_backup.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_layouts/2017_pdf.html" afterPath="$PROJECT_DIR$/old/_layouts/2017_pdf.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_plugins/hex_to_rgb.rb" afterPath="$PROJECT_DIR$/old/_plugins/hex_to_rgb.rb" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_404.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_404.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_about.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_about.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_agenda.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_agenda.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_button.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_button.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_event.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_event.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_fonts.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_fonts.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_footer.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_footer.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_form.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_form.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_header.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_header.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_home.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_home.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_more.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_more.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_social.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_social.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_speakers.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_speakers.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_sponsors.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_sponsors.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/_sass/2016_sass/_team.scss" afterPath="$PROJECT_DIR$/old/_sass/2016_sass/_team.scss" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/font-awesome/css/font-awesome.css" afterPath="$PROJECT_DIR$/old/css/2016_style/font-awesome/css/font-awesome.css" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/font-awesome/css/font-awesome.min.css" afterPath="$PROJECT_DIR$/old/css/2016_style/font-awesome/css/font-awesome.min.css" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/font-awesome/fonts/FontAwesome.otf" afterPath="$PROJECT_DIR$/old/css/2016_style/font-awesome/fonts/FontAwesome.otf" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/font-awesome/fonts/fontawesome-webfont.eot" afterPath="$PROJECT_DIR$/old/css/2016_style/font-awesome/fonts/fontawesome-webfont.eot" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/font-awesome/fonts/fontawesome-webfont.svg" afterPath="$PROJECT_DIR$/old/css/2016_style/font-awesome/fonts/fontawesome-webfont.svg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="$PROJECT_DIR$/old/css/2016_style/font-awesome/fonts/fontawesome-webfont.ttf" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/font-awesome/fonts/fontawesome-webfont.woff" afterPath="$PROJECT_DIR$/old/css/2016_style/font-awesome/fonts/fontawesome-webfont.woff" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="$PROJECT_DIR$/old/css/2016_style/font-awesome/fonts/fontawesome-webfont.woff2" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/fonts/Roboto-regular/Roboto-regular.eot" afterPath="$PROJECT_DIR$/old/css/2016_style/fonts/Roboto-regular/Roboto-regular.eot" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/fonts/Roboto-regular/Roboto-regular.svg" afterPath="$PROJECT_DIR$/old/css/2016_style/fonts/Roboto-regular/Roboto-regular.svg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/fonts/Roboto-regular/Roboto-regular.ttf" afterPath="$PROJECT_DIR$/old/css/2016_style/fonts/Roboto-regular/Roboto-regular.ttf" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/fonts/Roboto-regular/Roboto-regular.woff" afterPath="$PROJECT_DIR$/old/css/2016_style/fonts/Roboto-regular/Roboto-regular.woff" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/fonts/Roboto-regular/Roboto-regular.woff2" afterPath="$PROJECT_DIR$/old/css/2016_style/fonts/Roboto-regular/Roboto-regular.woff2" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/TBD.jpg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/TBD.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/booklet-icon.png" afterPath="$PROJECT_DIR$/old/css/2016_style/img/booklet-icon.png" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/header-bg.jpg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/header-bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/icon-about.jpeg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/icon-about.jpeg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/icon-agenda.jpeg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/icon-agenda.jpeg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/icon-faq.jpeg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/icon-faq.jpeg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/icon-team.jpeg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/icon-team.jpeg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/icon-venue.jpeg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/icon-venue.jpeg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/logos/TBD.jpg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/logos/TBD.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/map-image.png" afterPath="$PROJECT_DIR$/old/css/2016_style/img/map-image.png" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/speaker/TBD.jpg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/speaker/TBD.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/stockholm-city-header-bg.jpg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/stockholm-city-header-bg.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/stockholm-city-header-bg2.jpg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/stockholm-city-header-bg2.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/stockholm-city-header-bg3.jpg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/stockholm-city-header-bg3.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/img/team/TBD.jpg" afterPath="$PROJECT_DIR$/old/css/2016_style/img/team/TBD.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/js/agency.js" afterPath="$PROJECT_DIR$/old/css/2016_style/js/agency.js" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/js/bootstrap.js" afterPath="$PROJECT_DIR$/old/css/2016_style/js/bootstrap.js" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/js/bootstrap.min.js" afterPath="$PROJECT_DIR$/old/css/2016_style/js/bootstrap.min.js" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/js/cbpAnimatedHeader.js" afterPath="$PROJECT_DIR$/old/css/2016_style/js/cbpAnimatedHeader.js" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/js/cbpAnimatedHeader.min.js" afterPath="$PROJECT_DIR$/old/css/2016_style/js/cbpAnimatedHeader.min.js" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/js/classie.js" afterPath="$PROJECT_DIR$/old/css/2016_style/js/classie.js" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/js/contact_me.js" afterPath="$PROJECT_DIR$/old/css/2016_style/js/contact_me.js" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/js/jqBootstrapValidation.js" afterPath="$PROJECT_DIR$/old/css/2016_style/js/jqBootstrapValidation.js" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/js/jquery-1.11.0.js" afterPath="$PROJECT_DIR$/old/css/2016_style/js/jquery-1.11.0.js" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/js/jquery.easing.min.js" afterPath="$PROJECT_DIR$/old/css/2016_style/js/jquery.easing.min.js" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2016_style/style.css" afterPath="$PROJECT_DIR$/old/css/2016_style/style.css" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2017_style/img/logos/TBD.jpg" afterPath="$PROJECT_DIR$/old/css/2017_style/img/logos/TBD.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2017_style/img/speaker/TBD.jpg" afterPath="$PROJECT_DIR$/old/css/2017_style/img/speaker/TBD.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/css/2017_style/img/team/TBD.jpg" afterPath="$PROJECT_DIR$/old/css/2017_style/img/team/TBD.jpg" />
+      <change beforePath="$PROJECT_DIR$/docs/old/feed.xml" afterPath="$PROJECT_DIR$/old/feed.xml" />
+      <change beforePath="$PROJECT_DIR$/docs/old/index.html" afterPath="$PROJECT_DIR$/old/index.html" />
+      <change beforePath="$PROJECT_DIR$/docs/old/robots.txt" afterPath="$PROJECT_DIR$/old/robots.txt" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -139,7 +138,7 @@
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="-108">
-              <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+              <caret line="45" column="27" lean-forward="false" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -225,6 +224,9 @@
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
   </component>
   <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Dustin Dannenhauer\Desktop\Service\faim2018grw" />
+    </key>
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dustin Dannenhauer\Desktop\Service\faim2018grw\docs\_layouts" />
     </key>
@@ -259,9 +261,8 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
-    <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -339,7 +340,7 @@
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-108">
-          <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
+          <caret line="45" column="27" lean-forward="false" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
           <folding />
         </state>
       </provider>
