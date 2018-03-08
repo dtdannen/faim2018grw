@@ -2,7 +2,129 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60648e5b-0870-4e6a-ab0e-0e10bd0a6731" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/css/2016_style/img/stockholm-city-header-bg3.jpg" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
+      <change beforePath="$PROJECT_DIR$/docs/2016_speakers/_posts/2016-07-16-project-3.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/2016_speakers/_posts/2016-07-17-project-2.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/2016_speakers/_posts/2016-07-18-project-1.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/2017_speakers/_posts/2017-01-01-speaker-01.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/2017_speakers/_posts/2017-01-01-speaker-02.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/2017_speakers/_posts/2017-01-01-speaker-03.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/2017_teams/_posts/2017-05-31-team-1.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/2017_teams/_posts/2017-05-31-team-2.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/2017_teams/_posts/2017-05-31-team-3.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/404.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/LICENSE" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/README.markdown" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/README.md" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/agenda.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/faqs.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/index.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/register.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/team.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2016_pages/venue.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/agenda.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/booklet.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/faqs.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/register.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/team.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_2017_pages/venue.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_data/template.yml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_css/agency.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_css/bootstrap.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_css/critical.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/contact.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/footer.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/head.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/header-home.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/intro.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/js.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/logo.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/speakers.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/speakers_info.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2016_data/sponsors.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/about.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/contact.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/header-home.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/header.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/intro.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/logo.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/speakers.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/speakers_info.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/sponsors.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/team_members.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_includes/2017_data/team_members_info.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/2016_default.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/2016_home.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/2016_style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/2017_default.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/2017_home.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/2017_home_backup.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_layouts/2017_pdf.html" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_plugins/hex_to_rgb.rb" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_404.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_about.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_agenda.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_button.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_event.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_fonts.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_footer.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_form.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_header.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_home.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_more.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_social.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_speakers.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_sponsors.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/_sass/2016_sass/_team.scss" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/css/font-awesome.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/css/font-awesome.min.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/FontAwesome.otf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/fontawesome-webfont.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/fontawesome-webfont.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/fontawesome-webfont.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/fontawesome-webfont.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/font-awesome/fonts/fontawesome-webfont.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/fonts/Roboto-regular/Roboto-regular.eot" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/fonts/Roboto-regular/Roboto-regular.svg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/fonts/Roboto-regular/Roboto-regular.ttf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/fonts/Roboto-regular/Roboto-regular.woff" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/fonts/Roboto-regular/Roboto-regular.woff2" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/TBD.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/booklet-icon.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/header-bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/icon-about.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/icon-agenda.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/icon-faq.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/icon-team.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/icon-venue.jpeg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/logos/TBD.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/map-image.png" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/speaker/TBD.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/stockholm-city-header-bg.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/stockholm-city-header-bg2.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/stockholm-city-header-bg3.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/img/team/TBD.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/agency.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/bootstrap.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/bootstrap.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/cbpAnimatedHeader.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/cbpAnimatedHeader.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/classie.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/contact_me.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/jqBootstrapValidation.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/jquery-1.11.0.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/js/jquery.easing.min.js" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2016_style/style.css" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2017_style/img/logos/TBD.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2017_style/img/speaker/TBD.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/css/2017_style/img/team/TBD.jpg" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/feed.xml" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change beforePath="$PROJECT_DIR$/docs/robots.txt" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -13,71 +135,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017_home.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_layouts/2017_home.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="86" lean-forward="false" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="agency.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_includes/2016_css/agency.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="447">
-              <caret line="370" column="18" lean-forward="false" selection-start-line="370" selection-start-column="18" selection-end-line="370" selection-end-column="18" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017_home_backup.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_layouts/2017_home_backup.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="head.html" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/docs/_includes/2016_data/head.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="432">
-              <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/css/2016_style/style.css">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2017_default.html" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/docs/_layouts/2017_default.html">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="0">
-              <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+            <state relative-caret-position="-108">
+              <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
               <folding />
             </state>
           </provider>
@@ -93,8 +155,8 @@
       <find>header-bg</find>
       <find>style.css</find>
       <find>intro-heading</find>
-      <find>intro-head</find>
       <find>bg</find>
+      <find>intro-head</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Dustin Dannenhauer\Desktop\Research\faim2018grw</dir>
@@ -116,6 +178,7 @@
         <option value="$PROJECT_DIR$/docs/_includes/2017_data/header-home.html" />
         <option value="$PROJECT_DIR$/docs/_includes/2017_data/contact.html" />
         <option value="$PROJECT_DIR$/docs/_includes/2016_css/agency.css" />
+        <option value="$PROJECT_DIR$/docs/index.html" />
       </list>
     </option>
   </component>
@@ -151,40 +214,6 @@
               <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
               <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="_includes" type="462c0819:PsiDirectoryNode" />
-              <item name="2016_css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="2016_style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="2016_style" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
             </path>
           </expand>
           <select />
@@ -230,11 +259,11 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <editor active="true" />
     <layout>
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
@@ -247,6 +276,7 @@
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
     </layout>
   </component>
@@ -261,292 +291,55 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/2017_data/header-home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="136" lean-forward="true" selection-start-line="11" selection-start-column="136" selection-end-line="11" selection-end-column="136" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2016_pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-about.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/img/header-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/2017_data/intro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="29" lean-forward="true" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2017_pages/team.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2017_pages/venue.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2017_pages/about.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/img/map-image.png">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-venue.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-team.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-faq.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-agenda.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-about.jpeg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/img/header-bg.jpg">
-      <provider selected="true" editor-type-id="images">
-        <state />
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_2016_pages/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/css/2016_style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/feed.xml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="22" lean-forward="false" selection-start-line="18" selection-start-column="22" selection-end-line="18" selection-end-column="22" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/index.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="1" column="12" lean-forward="false" selection-start-line="1" selection-start-column="12" selection-end-line="1" selection-end-column="12" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_config.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="34" lean-forward="false" selection-start-line="0" selection-start-column="34" selection-end-line="0" selection-end-column="34" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/2017_data/header-home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="198">
-          <caret line="11" column="136" lean-forward="false" selection-start-line="11" selection-start-column="136" selection-end-line="11" selection-end-column="136" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="9" lean-forward="false" selection-start-line="22" selection-start-column="9" selection-end-line="22" selection-end-column="9" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/_includes/2017_data/intro.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="396">
-          <caret line="22" column="29" lean-forward="false" selection-start-line="22" selection-start-column="29" selection-end-line="22" selection-end-column="29" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html" />
+    <entry file="file://$PROJECT_DIR$/_includes/2017_data/header-home.html" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/style.css" />
+    <entry file="file://$PROJECT_DIR$/_config.yml" />
+    <entry file="file://$PROJECT_DIR$/feed.xml" />
+    <entry file="file://$PROJECT_DIR$/_2016_pages/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-about.jpeg" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/img/header-bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/_includes/2017_data/intro.html" />
+    <entry file="file://$PROJECT_DIR$/_2017_pages/team.html" />
+    <entry file="file://$PROJECT_DIR$/_2017_pages/venue.html" />
+    <entry file="file://$PROJECT_DIR$/_2017_pages/about.html" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/img/map-image.png" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-venue.jpeg" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-team.jpeg" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-faq.jpeg" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-agenda.jpeg" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/img/icon-about.jpeg" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/img/header-bg.jpg" />
+    <entry file="file://$PROJECT_DIR$/_2016_pages/index.html" />
+    <entry file="file://$PROJECT_DIR$/css/2016_style/style.css" />
+    <entry file="file://$PROJECT_DIR$/feed.xml" />
+    <entry file="file://$PROJECT_DIR$/index.html" />
+    <entry file="file://$PROJECT_DIR$/_config.yml" />
+    <entry file="file://$PROJECT_DIR$/_includes/2017_data/header-home.html" />
+    <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html" />
+    <entry file="file://$PROJECT_DIR$/_includes/2017_data/intro.html" />
     <entry file="file://$PROJECT_DIR$/email_list.csv">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
           <caret line="2" column="0" lean-forward="false" selection-start-line="2" selection-start-column="0" selection-end-line="2" selection-end-column="0" />
-          <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_includes/2017_data/header-home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="486">
-          <caret line="27" column="23" lean-forward="false" selection-start-line="27" selection-start-column="23" selection-end-line="27" selection-end-column="23" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_includes/2016_css/bootstrap.min.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_plugins/hex_to_rgb.rb">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="144">
-          <caret line="8" column="28" lean-forward="false" selection-start-line="8" selection-start-column="28" selection-end-line="8" selection-end-column="28" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/css/2016_style/style.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_layouts/2017_default.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/_includes/2017_data/header-home.html" />
+    <entry file="file://$PROJECT_DIR$/docs/_includes/2016_css/bootstrap.min.css" />
+    <entry file="file://$PROJECT_DIR$/docs/_plugins/hex_to_rgb.rb" />
+    <entry file="file://$PROJECT_DIR$/docs/css/2016_style/style.css" />
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/2017_default.html" />
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/2017_home.html" />
+    <entry file="file://$PROJECT_DIR$/docs/_includes/2016_css/agency.css" />
+    <entry file="file://$PROJECT_DIR$/docs/_includes/2017_data/contact.html" />
+    <entry file="file://$PROJECT_DIR$/docs/_layouts/2017_home_backup.html" />
+    <entry file="file://$PROJECT_DIR$/docs/_includes/2016_data/head.html" />
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_layouts/2017_home.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="86" lean-forward="false" selection-start-line="17" selection-start-column="86" selection-end-line="17" selection-end-column="86" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_includes/2016_css/agency.css">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="447">
-          <caret line="370" column="18" lean-forward="false" selection-start-line="370" selection-start-column="18" selection-end-line="370" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_includes/2017_data/contact.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="126">
-          <caret line="7" column="18" lean-forward="false" selection-start-line="7" selection-start-column="18" selection-end-line="7" selection-end-column="18" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_layouts/2017_home_backup.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="0">
-          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/docs/_includes/2016_data/head.html">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="432">
-          <caret line="24" column="0" lean-forward="false" selection-start-line="24" selection-start-column="0" selection-end-line="24" selection-end-column="0" />
+        <state relative-caret-position="-108">
+          <caret line="45" column="27" lean-forward="true" selection-start-line="45" selection-start-column="27" selection-end-line="45" selection-end-column="27" />
           <folding />
         </state>
       </provider>
