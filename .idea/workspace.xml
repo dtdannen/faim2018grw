@@ -2,9 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60648e5b-0870-4e6a-ab0e-0e10bd0a6731" name="Default" comment="">
-      <change beforePath="" afterPath="$PROJECT_DIR$/docs/images/stockholm-city-header-bg4.jpg" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
-      <change beforePath="$PROJECT_DIR$/docs/css/style.css" afterPath="$PROJECT_DIR$/docs/css/style.css" />
+      <change beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -15,21 +14,31 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1458">
-              <caret line="81" column="38" lean-forward="false" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+            <state relative-caret-position="-1245">
+              <caret line="86" column="216" lean-forward="true" selection-start-line="86" selection-start-column="216" selection-end-line="86" selection-end-column="216" />
               <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="style.css" pinned="false" current-in-tab="true">
+      <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="704">
+            <state relative-caret-position="2610">
               <caret line="145" column="60" lean-forward="false" selection-start-line="145" selection-start-column="60" selection-end-line="145" selection-end-column="60" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="another_page.html" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/mak/ijcai2018grw.tar/ijcai2018grw/another_page.html">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="307">
+              <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
               <folding />
             </state>
           </provider>
@@ -47,6 +56,7 @@
       <find>intro-heading</find>
       <find>bg</find>
       <find>intro-head</find>
+      <find>Website</find>
     </findStrings>
     <dirStrings>
       <dir>C:\Users\Dustin Dannenhauer\Desktop\Research\faim2018grw</dir>
@@ -68,13 +78,14 @@
         <option value="$PROJECT_DIR$/docs/_includes/2017_data/header-home.html" />
         <option value="$PROJECT_DIR$/docs/_includes/2017_data/contact.html" />
         <option value="$PROJECT_DIR$/docs/_includes/2016_css/agency.css" />
-        <option value="$PROJECT_DIR$/docs/index.html" />
         <option value="$PROJECT_DIR$/docs/css/style.css" />
+        <option value="$PROJECT_DIR$/mak/ijcai2018grw.tar/ijcai2018grw/another_page.html" />
+        <option value="$PROJECT_DIR$/docs/index.html" />
       </list>
     </option>
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="width" value="1350" />
+    <option name="width" value="1455" />
     <option name="height" value="1160" />
   </component>
   <component name="ProjectView">
@@ -93,7 +104,6 @@
     </navigator>
     <panes>
       <pane id="Scope" />
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,12 +121,6 @@
               <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
               <item name="docs" type="462c0819:PsiDirectoryNode" />
               <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="images" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
@@ -148,6 +152,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -224,6 +229,30 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1458">
+          <caret line="81" column="38" lean-forward="false" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/css/style.css">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2610">
+          <caret line="145" column="60" lean-forward="false" selection-start-line="145" selection-start-column="60" selection-end-line="145" selection-end-column="60" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/mak/ijcai2018grw.tar/ijcai2018grw/another_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="990">
+          <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/index.html" />
     <entry file="file://$PROJECT_DIR$/_layouts/2017_home.html" />
     <entry file="file://$PROJECT_DIR$/_includes/2017_data/header-home.html" />
@@ -269,18 +298,26 @@
     <entry file="file://$PROJECT_DIR$/docs/_includes/2017_data/contact.html" />
     <entry file="file://$PROJECT_DIR$/docs/_layouts/2017_home_backup.html" />
     <entry file="file://$PROJECT_DIR$/docs/_includes/2016_data/head.html" />
-    <entry file="file://$PROJECT_DIR$/docs/index.html">
+    <entry file="file://$PROJECT_DIR$/docs/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1458">
-          <caret line="81" column="38" lean-forward="false" selection-start-line="81" selection-start-column="38" selection-end-line="81" selection-end-column="38" />
+        <state relative-caret-position="2610">
+          <caret line="145" column="60" lean-forward="false" selection-start-line="145" selection-start-column="60" selection-end-line="145" selection-end-column="60" />
           <folding />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/docs/css/style.css">
+    <entry file="file://$PROJECT_DIR$/mak/ijcai2018grw.tar/ijcai2018grw/another_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="704">
-          <caret line="145" column="60" lean-forward="false" selection-start-line="145" selection-start-column="60" selection-end-line="145" selection-end-column="60" />
+        <state relative-caret-position="307">
+          <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/docs/index.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-1245">
+          <caret line="86" column="216" lean-forward="true" selection-start-line="86" selection-start-column="216" selection-end-line="86" selection-end-column="216" />
           <folding />
         </state>
       </provider>
