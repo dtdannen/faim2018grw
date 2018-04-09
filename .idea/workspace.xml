@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60648e5b-0870-4e6a-ab0e-0e10bd0a6731" name="Default" comment="">
+      <change beforePath="" afterPath="$PROJECT_DIR$/email_script.py" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
     </list>
@@ -14,11 +15,51 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
+      <file leaf-file-name="index.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="-1245">
-              <caret line="86" column="216" lean-forward="true" selection-start-line="86" selection-start-column="216" selection-end-line="86" selection-end-column="216" />
+            <state relative-caret-position="2852">
+              <caret line="124" column="77" lean-forward="false" selection-start-line="124" selection-start-column="77" selection-end-line="124" selection-end-column="77" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="email_script.py" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email_script.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="184">
+              <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="processed-email-names-similarity-search.txt" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/processed-email-names-similarity-search.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="650">
+              <caret line="80" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="cp1252.py" pinned="false" current-in-tab="false">
+        <entry file="file://C:/ProgramData/Miniconda3/Lib/encodings/cp1252.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="506">
+              <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+              <folding />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="email-names-similarity-search.txt" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/email-names-similarity-search.txt">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="1357">
+              <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
               <folding />
             </state>
           </provider>
@@ -27,7 +68,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="2610">
+            <state relative-caret-position="3335">
               <caret line="145" column="60" lean-forward="false" selection-start-line="145" selection-start-column="60" selection-end-line="145" selection-end-column="60" />
               <folding />
             </state>
@@ -37,7 +78,7 @@
       <file leaf-file-name="another_page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mak/ijcai2018grw.tar/ijcai2018grw/another_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="307">
+            <state relative-caret-position="1265">
               <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
               <folding />
             </state>
@@ -45,6 +86,13 @@
         </entry>
       </file>
     </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -81,6 +129,8 @@
         <option value="$PROJECT_DIR$/docs/css/style.css" />
         <option value="$PROJECT_DIR$/mak/ijcai2018grw.tar/ijcai2018grw/another_page.html" />
         <option value="$PROJECT_DIR$/docs/index.html" />
+        <option value="$PROJECT_DIR$/email-names-similarity-search.txt" />
+        <option value="$PROJECT_DIR$/email_script.py" />
       </list>
     </option>
   </component>
@@ -103,7 +153,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scope" />
+      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -111,48 +161,11 @@
               <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
               <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
             </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="docs" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="old" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="old" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="old" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="2016_style" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="faim2018grw" type="b2602c69:ProjectViewProjectNode" />
-              <item name="faim2018grw" type="462c0819:PsiDirectoryNode" />
-              <item name="old" type="462c0819:PsiDirectoryNode" />
-              <item name="css" type="462c0819:PsiDirectoryNode" />
-              <item name="2016_style" type="462c0819:PsiDirectoryNode" />
-              <item name="img" type="462c0819:PsiDirectoryNode" />
-            </path>
           </expand>
           <select />
         </subPane>
       </pane>
-      <pane id="Scratches" />
+      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -179,6 +192,31 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="email_script" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <module name="faim2018grw" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/email_script.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+    </configuration>
+    <recent_temporary>
+      <list size="1">
+        <item index="0" class="java.lang.String" itemvalue="Python.email_script" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="ShelveChangesManager" show_recycled="false">
     <option name="remove_strategy" value="false" />
   </component>
@@ -196,13 +234,13 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
+    <frame x="-9" y="-9" width="1938" height="1170" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24973656" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.24960339" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32940018" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Python Console" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
@@ -229,6 +267,22 @@
     <watches-manager />
   </component>
   <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/mak/ijcai2018grw.tar/ijcai2018grw/another_page.html">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1265">
+          <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed-email-names-similarity-search.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1840">
+          <caret line="80" column="47" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1458">
@@ -300,7 +354,7 @@
     <entry file="file://$PROJECT_DIR$/docs/_includes/2016_data/head.html" />
     <entry file="file://$PROJECT_DIR$/docs/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="2610">
+        <state relative-caret-position="3335">
           <caret line="145" column="60" lean-forward="false" selection-start-line="145" selection-start-column="60" selection-end-line="145" selection-end-column="60" />
           <folding />
         </state>
@@ -308,7 +362,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mak/ijcai2018grw.tar/ijcai2018grw/another_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="307">
+        <state relative-caret-position="1265">
           <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
           <folding />
         </state>
@@ -316,8 +370,40 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="-1245">
-          <caret line="86" column="216" lean-forward="true" selection-start-line="86" selection-start-column="216" selection-end-line="86" selection-end-column="216" />
+        <state relative-caret-position="2852">
+          <caret line="124" column="77" lean-forward="false" selection-start-line="124" selection-start-column="77" selection-end-line="124" selection-end-column="77" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://C:/ProgramData/Miniconda3/Lib/encodings/cp1252.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="506">
+          <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email-names-similarity-search.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1357">
+          <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/email_script.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="184">
+          <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/processed-email-names-similarity-search.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="650">
+          <caret line="80" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding />
         </state>
       </provider>
