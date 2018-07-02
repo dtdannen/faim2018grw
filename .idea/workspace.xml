@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="60648e5b-0870-4e6a-ab0e-0e10bd0a6731" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -16,8 +17,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+            <state relative-caret-position="342">
+              <caret line="184" column="67" lean-forward="true" selection-start-line="184" selection-start-column="67" selection-end-line="184" selection-end-column="67" />
               <folding>
                 <element signature="n#style#0;n#table#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -28,7 +29,7 @@
       <file leaf-file-name="email_script.py" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/email_script.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="184">
+            <state relative-caret-position="144">
               <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
               <folding />
             </state>
@@ -38,7 +39,7 @@
       <file leaf-file-name="processed-email-names-similarity-search.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/processed-email-names-similarity-search.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1840">
+            <state relative-caret-position="1440">
               <caret line="80" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
               <folding />
             </state>
@@ -48,7 +49,7 @@
       <file leaf-file-name="cp1252.py" pinned="false" current-in-tab="false">
         <entry file="file://C:/ProgramData/Miniconda3/Lib/encodings/cp1252.py">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="506">
+            <state relative-caret-position="396">
               <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
               <folding />
             </state>
@@ -58,7 +59,7 @@
       <file leaf-file-name="email-names-similarity-search.txt" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/email-names-similarity-search.txt">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1357">
+            <state relative-caret-position="1062">
               <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
               <folding />
             </state>
@@ -68,7 +69,7 @@
       <file leaf-file-name="style.css" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/docs/css/style.css">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="3335">
+            <state relative-caret-position="2610">
               <caret line="145" column="60" lean-forward="false" selection-start-line="145" selection-start-column="60" selection-end-line="145" selection-end-column="60" />
               <folding />
             </state>
@@ -78,7 +79,7 @@
       <file leaf-file-name="another_page.html" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/mak/ijcai2018grw.tar/ijcai2018grw/another_page.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1265">
+            <state relative-caret-position="990">
               <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
               <folding />
             </state>
@@ -156,7 +157,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="Scratches" />
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -174,6 +174,7 @@
         </subPane>
       </pane>
       <pane id="Scope" />
+      <pane id="Scratches" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -242,10 +243,10 @@
     <servers />
   </component>
   <component name="ToolWindowManager">
-    <frame x="-9" y="-9" width="1938" height="1170" extended-state="6" />
+    <frame x="-8" y="-8" width="1936" height="1176" extended-state="6" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15600212" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.15595363" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
       <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32940018" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
@@ -364,7 +365,7 @@
     <entry file="file://$PROJECT_DIR$/docs/_includes/2016_data/head.html" />
     <entry file="file://$PROJECT_DIR$/docs/css/style.css">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="3335">
+        <state relative-caret-position="2610">
           <caret line="145" column="60" lean-forward="false" selection-start-line="145" selection-start-column="60" selection-end-line="145" selection-end-column="60" />
           <folding />
         </state>
@@ -372,7 +373,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/mak/ijcai2018grw.tar/ijcai2018grw/another_page.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1265">
+        <state relative-caret-position="990">
           <caret line="55" column="30" lean-forward="false" selection-start-line="55" selection-start-column="30" selection-end-line="55" selection-end-column="30" />
           <folding />
         </state>
@@ -380,7 +381,7 @@
     </entry>
     <entry file="file://C:/ProgramData/Miniconda3/Lib/encodings/cp1252.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="506">
+        <state relative-caret-position="396">
           <caret line="22" column="0" lean-forward="false" selection-start-line="22" selection-start-column="0" selection-end-line="22" selection-end-column="0" />
           <folding />
         </state>
@@ -388,7 +389,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/email-names-similarity-search.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1357">
+        <state relative-caret-position="1062">
           <caret line="59" column="20" lean-forward="false" selection-start-line="59" selection-start-column="20" selection-end-line="59" selection-end-column="20" />
           <folding />
         </state>
@@ -396,7 +397,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/email_script.py">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="184">
+        <state relative-caret-position="144">
           <caret line="8" column="21" lean-forward="false" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
           <folding />
         </state>
@@ -404,7 +405,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/processed-email-names-similarity-search.txt">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1840">
+        <state relative-caret-position="1440">
           <caret line="80" column="47" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="93" selection-end-column="0" />
           <folding />
         </state>
@@ -412,8 +413,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="77" column="17" lean-forward="false" selection-start-line="77" selection-start-column="17" selection-end-line="77" selection-end-column="17" />
+        <state relative-caret-position="342">
+          <caret line="184" column="67" lean-forward="true" selection-start-line="184" selection-start-column="67" selection-end-line="184" selection-end-column="67" />
           <folding>
             <element signature="n#style#0;n#table#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
