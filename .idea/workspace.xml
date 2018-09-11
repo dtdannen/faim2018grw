@@ -3,6 +3,18 @@
   <component name="ChangeListManager">
     <list default="true" id="60648e5b-0870-4e6a-ab0e-0e10bd0a6731" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/docs/index.html" afterPath="$PROJECT_DIR$/docs/index.html" />
+      <change beforePath="$PROJECT_DIR$/papers/AComputationallyGroundedModelforGoalProcessinginBDIAgents.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/ANewMetricandMethodforGoalIdentificationControl.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/CounterplanninginReal-TimeStrategyGamesthroughGoalRecognition.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/DynamicGoalDecompositionandPlanninginMAS.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/ExplainingRebelBehaviorinGoalReasoningAgents.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/GeneratingPlansforQualitativeGoalPreferences.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/GoalReasoningwithGoldilocksandRegressionExpectationsinNondeterministicDomains.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/HybridGoalSelectionandPlanninginaGoalReasoningAgentUsingPartiallySpecifiedPreferences.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/InvestigationPlanninginDataAnalysis.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/Non-TraditionalObjectiveFunctionsforMDPs.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/TheIdealRebellionMaximizingTaskPerformanceinRebelAgents.pdf" afterPath="" />
+      <change beforePath="$PROJECT_DIR$/papers/TowardProblemRecognitionExplanationandGoalFormulation.pdf" afterPath="" />
     </list>
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="TRACKING_ENABLED" value="true" />
@@ -17,7 +29,7 @@
         <entry file="file://$PROJECT_DIR$/docs/index.html">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="1017">
-              <caret line="235" column="229" lean-forward="true" selection-start-line="235" selection-start-column="229" selection-end-line="235" selection-end-column="229" />
+              <caret line="235" column="173" lean-forward="false" selection-start-line="235" selection-start-column="173" selection-end-line="235" selection-end-column="173" />
               <folding>
                 <element signature="n#style#0;n#table#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
               </folding>
@@ -423,7 +435,7 @@
     <entry file="file://$PROJECT_DIR$/docs/index.html">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1017">
-          <caret line="235" column="229" lean-forward="true" selection-start-line="235" selection-start-column="229" selection-end-line="235" selection-end-column="229" />
+          <caret line="235" column="173" lean-forward="false" selection-start-line="235" selection-start-column="173" selection-end-line="235" selection-end-column="173" />
           <folding>
             <element signature="n#style#0;n#table#2;n#div#1;n#div#0;n#div#0;n#body#0;n#html#0;n#!!top" expanded="true" />
           </folding>
